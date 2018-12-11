@@ -4,6 +4,8 @@ This project is just a simple blink led program developed in uC/OS III RTOS whic
 
 Just to be clear there may be unforeseen problems with the port but as Micrium has not provided a port for this board it may help others to get started. Micrium have also been sent this port for inclusion in there download section but as of now it has not yet been made available.
 
+Other projects at https://digitalelectronicsprojects.wordpress.com/
+
 1. Download project and unzip.
 2. After unzipping copy and paste the "Micrium_STM32L073RZ_Nucleo_Blinky" folder to the root of the c:\ drive.
 3. Navigate to "Micrium_STM32L073RZ_Nucleo_Blinky/STM32L073RZ_Nucleo/ST/STM32L073RZ_Nucleo/Blinky/OS3/TrueSTUDIO/" and you will see a folder and two files. Edit the names of all three so they include a dot at the start of all three. (i.e. ".settings",".cproject",".project") This is so as i was unable to commit the files and folder with . prefixes to GitHub. 
