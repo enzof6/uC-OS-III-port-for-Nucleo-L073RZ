@@ -14,7 +14,7 @@ HARDWARE SETUP
 - Connect USB Mini-B cable to CN1 to provide power.
 
 WORKSPACE LOCATIONS
-- ST/STM32L476RG_Nucleo/Blinky/OS3/TrueSTUDIO/
+- ST/STM32L073RZ_Nucleo/Blinky/OS3/TrueSTUDIO/
 
 USAGE INSTRUCTIONS
 
