@@ -26,5 +26,4 @@ TrueSTUDIO
 - Now modify the call to OSTimeDlyHMSM() in StartupTask() to increase or decrease the frequency at which the LED blinks.
 - Build and run again to see the change.
 
-Modified Micrium's Blinky example project for STM32L476RG-Nucleo and ported it for STM32L073RZ-Nucleo. 
-Done by Darren Sherin University of Limerick Ireland on 10/10/2018. Email 16129008@studentmail.ul.ie.
+Modified Micrium's Blinky example project for STM32L476RG-Nucleo and ported it for STM32L073RZ-Nucleo.
